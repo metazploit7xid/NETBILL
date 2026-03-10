@@ -1,0 +1,5 @@
+{
+  "name": "ISP Billing System",
+  "description": "A web billing and invoice management system for WiFi ISPs.",
+  "requestFramePermissions": []
+}
